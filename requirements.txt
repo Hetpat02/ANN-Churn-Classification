@@ -3,3 +3,6 @@ streamlit
 numpy
 pandas
 scikit-learn
+tensorboard
+matplotlib
+keras
